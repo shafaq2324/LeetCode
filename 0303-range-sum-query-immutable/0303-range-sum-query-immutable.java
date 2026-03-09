@@ -1,12 +1,9 @@
 class NumArray {
-
     int[] sum;
     public NumArray(int[] nums) {
-        sum = new int[nums.length];
-        int prev = 0;
-        for(int i = 0; i < nums.length; i++){
-            prev += nums[i];
-            sum[i] = prev;
+        sum = nums;
+        for(int i = 1; i < nums.length; i++){
+            sum[i] += sum[i -1];
         }
     }
     
