@@ -5,8 +5,8 @@ class NumArray {
         sum = new int[nums.length];
         int prev = 0;
         for(int i = 0; i < nums.length; i++){
-            sum[i] = prev + nums[i];
-            prev = sum[i];
+            prev += nums[i];
+            sum[i] = prev;
         }
     }
     
