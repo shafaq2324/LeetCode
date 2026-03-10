@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shafaq2324/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/shafaq2324/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shafaq2324/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/shafaq2324/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/shafaq2324/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
