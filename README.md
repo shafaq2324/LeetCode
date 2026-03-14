@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shafaq2324/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/shafaq2324/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/shafaq2324/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/shafaq2324/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/shafaq2324/LeetCode/tree/main/0415-add-strings/) | Easy |
 ## Recursion
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shafaq2324/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shafaq2324/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
