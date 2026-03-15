@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shafaq2324/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/shafaq2324/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/shafaq2324/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0326-power-of-three](https://github.com/shafaq2324/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/shafaq2324/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/shafaq2324/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shafaq2324/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shafaq2324/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0326-power-of-three](https://github.com/shafaq2324/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
