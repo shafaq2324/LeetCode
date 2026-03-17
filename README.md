@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/shafaq2324/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shafaq2324/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
