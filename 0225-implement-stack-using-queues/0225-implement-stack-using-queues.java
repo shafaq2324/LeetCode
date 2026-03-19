@@ -1,30 +1,34 @@
 class MyStack {
-    Queue<Integer> q;
+    Queue<Integer> q1;
+    Queue<Integer> q2;
+    
+    // using 2 queues q2 stores last added element then the rest is added to q2 and then they get swapped
 
     public MyStack() {
-        q = new LinkedList<>(); // queue in java can be implemented using linked list or arraydequeue, the latter is faster.
+        q1 = new LinkedList<>(); 
+        q2 = new LinkedList<>(); 
     }
     
     public void push(int x) {
-        q.add(x);
-
-        // rotate all previous elements
-        int size = q.size();
-        for (int i = 0; i < size - 1; i++) {
-            q.add(q.remove());
+        q2.add(x);
+        while(!q1.isEmpty()){
+            q2.add(q1.remove());
         }
+        Queue<Integer> temp = q1;
+        q1 = q2;
+        q2 = temp;
     }
     
     public int pop() {
-        return q.remove();
+        return q1.remove();
     }
     
     public int top() {
-        return q.peek();
+        return q1.peek();
     }
     
     public boolean empty() {
-        return q.isEmpty();
+        return q1.isEmpty();
     }
 }
 
