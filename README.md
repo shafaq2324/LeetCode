@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shafaq2324/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/shafaq2324/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/shafaq2324/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shafaq2324/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/shafaq2324/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
