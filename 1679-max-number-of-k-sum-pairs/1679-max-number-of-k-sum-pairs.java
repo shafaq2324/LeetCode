@@ -1,15 +1,21 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
         int count = 0;
-        Map<Integer, Integer> check = new HashMap<>();
-        for(int num: nums){
-            int more = k - num;
-            if(check.getOrDefault(more, 0) > 0){
+        Arrays.sort(nums);
+        int l = 0;
+        int r = nums.length - 1;
+        while(l < r){
+            int sum = nums[l] + nums[r];
+            if(sum == k){
                 count++;
-                check.put(more, check.get(more) - 1);
+                l++;
+                r--;
+            }
+            else if(sum < k){
+                l++;
             }
             else{
-                check.put(num, check.getOrDefault(num, 0) + 1);
+                r--;
             }
         }
         return count;
