@@ -10,14 +10,14 @@ class Solution {
         return Math.max(ans1, ans2);
     }
     private static int solve(int[] nums, int start, int end){
-        int prev1 = 0;
-        int prev2 = 0;
+        int len = end - start + 1;
+        int dp[] = new int[len];
+        dp[0] = nums[start];
+        dp[1] = Math.max(nums[start], nums[start + 1]);
 
-        for(int i = start; i <= end; i++){
-           int curr = Math.max(prev1, prev2 + nums[i]);
-           prev2 = prev1;
-           prev1 = curr;
+        for(int i = 2; i < len; i++){
+            dp[i] = Math.max(dp[i - 1], nums[start + i] + dp[i - 2]);
         }
-        return prev1;
+        return dp[len - 1];
     }
 }
