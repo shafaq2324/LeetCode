@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shafaq2324/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shafaq2324/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shafaq2324/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Hash Table
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
