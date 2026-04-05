@@ -1,28 +1,12 @@
-WITH daily AS (
-    SELECT 
-        visited_on,
-        SUM(amount) AS daily_amount
-    FROM Customer
-    GROUP BY visited_on
-),
-calc AS (
-    SELECT 
-        visited_on,
-        SUM(daily_amount) OVER (
-            ORDER BY visited_on 
-            ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
-        ) AS amount,
-        ROUND(
-            SUM(daily_amount) OVER (
-                ORDER BY visited_on 
-                ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
-            ) / 7, 2
-        ) AS average_amount,
-        ROW_NUMBER() OVER (ORDER BY visited_on) AS rn
-    FROM daily
-)
+# Write your MySQL query statement below
+SELECT 
+    a.visited_on, 
+    SUM(b.amount) AS amount, 
+    ROUND(SUM(b.amount)/7, 2) AS average_amount
 
-SELECT visited_on, amount, average_amount
-FROM calc
-WHERE rn >= 7
-ORDER BY visited_on;
+FROM 
+    (SELECT DISTINCT visited_on FROM Customer) a 
+    JOIN Customer b ON DATEDIFF(a.visited_on, b.visited_on) BETWEEN 0 AND 6
+
+GROUP BY a.visited_on
+HAVING a.visited_on >= MIN(b.visited_on) + 6
