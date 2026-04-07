@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/shafaq2324/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/shafaq2324/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/shafaq2324/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/shafaq2324/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/shafaq2324/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/shafaq2324/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/shafaq2324/LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shafaq2324/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shafaq2324/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/shafaq2324/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/shafaq2324/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
