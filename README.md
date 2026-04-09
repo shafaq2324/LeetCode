@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-movie-rating](https://github.com/shafaq2324/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shafaq2324/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/shafaq2324/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/shafaq2324/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/shafaq2324/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/shafaq2324/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/shafaq2324/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
