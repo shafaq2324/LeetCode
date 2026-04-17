@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shafaq2324/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/shafaq2324/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/shafaq2324/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafaq2324/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shafaq2324/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shafaq2324/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shafaq2324/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/shafaq2324/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shafaq2324/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/shafaq2324/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shafaq2324/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
