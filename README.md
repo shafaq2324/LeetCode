@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/shafaq2324/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/shafaq2324/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/shafaq2324/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shafaq2324/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
