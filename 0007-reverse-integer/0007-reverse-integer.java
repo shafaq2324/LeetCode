@@ -9,9 +9,9 @@ class Solution {
         }
         x = Math.abs(x);
         while( x != 0){
-            int digit = x % 10;
-            rev = rev*10 + digit;
-            x /=10;
+            int digit = x % 10; // extract last digit
+            rev = rev*10 + digit; // add according to position
+            x /=10; // decrement digit places 
         }
         if(rev < lower || rev > upper){
             return 0;
