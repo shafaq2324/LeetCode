@@ -11,13 +11,17 @@ class Solution {
         //     }
         // }
         // return ans;
+        // brute force - add all the possible combinations
         HashMap<Integer, Integer> mpp = new HashMap<>();
+        // hashmap (number, more_needed)
         for(int i = 0; i < nums.length; i++){
             int more = target - nums[i];
             if(mpp.containsKey(more)){
                 return new int[] {i, mpp.get(more)};
+                // check if it contains the more as a key if yes then that more is present as an element in the array
             }
             mpp.put(nums[i], i);
+            // if not just add it as another key
         }
         return new int[] {};
         
