@@ -13,19 +13,24 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
         int carry = 0;
+        // as addition begins from the right end
         while(l1 != null || l2 != null || carry != 0){
-            int sum = carry;
+            // till the lists exhaust or carry becomes zero
+            int sum = carry; // every time add carry to sum as first step
             if(l1 != null){
+                // if l1 has not yet ended then add its value to sum and move the pointer
                 sum += l1.val;
                 l1 = l1.next;
             }
             if(l2 != null){
+                // if l2 has not yet ended then add its value to sum and move the pointer
                 sum += l2.val;
                 l2 = l2.next;
             }
-            curr.next = new ListNode(sum%10);
-            curr = curr.next;
-            carry = sum/10;
+            curr.next = new ListNode(sum%10); 
+            // the result list stores the mod of the sum
+            curr = curr.next; 
+            carry = sum/10; 
         }
         return dummy.next;
     }
