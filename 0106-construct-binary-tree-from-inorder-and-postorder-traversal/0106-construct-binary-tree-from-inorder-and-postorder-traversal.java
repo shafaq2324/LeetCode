@@ -26,7 +26,7 @@ class Solution {
         return root;
     }
     private TreeNode helper(int inorder[], int is, int ie, int postorder[], int ps, int pe, HashMap<Integer, Integer> inMap){
-        if(ps > pe || is > ie) return null;
+        if(ps > pe) return null;
         TreeNode root = new TreeNode(postorder[pe]);
         int inroot = inMap.get(root.val);
         int numsLeft = inroot - is;
