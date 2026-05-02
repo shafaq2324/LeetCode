@@ -22,8 +22,8 @@ public class Codec {
                 continue;
             }
             res.append(node.val + " ");
-            q.add(node.left);
-            q.add(node.right);
+            q.offer(node.left);
+            q.offer(node.right);
         }
         return res.toString();
     }
@@ -34,18 +34,18 @@ public class Codec {
         Queue<TreeNode> q = new LinkedList<>();
         String[] values = data.split(" ");
         TreeNode root = new TreeNode(Integer.parseInt(values[0]));
-        q.add(root);
+        q.offer(root);
         for(int i = 1; i < values.length; i++){
             TreeNode parent = q.poll();
             if(!values[i].equals("null")){
                 TreeNode left = new TreeNode(Integer.parseInt(values[i]));
                 parent.left = left;
-                q.add(left);
+                q.offer(left);
             }
             if(!values[++i].equals("null")){
                 TreeNode right = new TreeNode(Integer.parseInt(values[i]));
                 parent.right = right;
-                q.add(right);
+                q.offer(right);
             }
         }
         return root;
