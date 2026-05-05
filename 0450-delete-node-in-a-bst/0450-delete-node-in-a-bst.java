@@ -20,15 +20,24 @@ class Solution {
     if (key < root.val) root.left = deleteNode(root.left, key);
     else if (key > root.val) root.right = deleteNode(root.right, key);
     else {
-        if (root.left == null) return root.right;
-        if (root.right == null) return root.left;
+        // leaf node
+        if(root.left == null && root.right == null) return null;
+        // 1 child
+        if(root.left == null) return root.right;
+        else if(root.right == null) return root.left;
 
-        TreeNode curr = root.right;
-        while (curr.left != null) curr = curr.left; // inorder successor
-
-        root.val = curr.val;
-        root.right = deleteNode(root.right, curr.val);
+        // 2 children
+        TreeNode tree = findSuccessor(root.right);
+        root.val = tree.val;
+        root.right = deleteNode(root.right, tree.val);
     }
     return root;
+    }
+
+    private TreeNode findSuccessor(TreeNode root){
+        while(root.left != null){
+            root = root.left;
+        }
+        return root;
     }
 }
