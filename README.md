@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shafaq2324/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shafaq2324/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/shafaq2324/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/shafaq2324/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/shafaq2324/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shafaq2324/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/shafaq2324/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/shafaq2324/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shafaq2324/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shafaq2324/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/shafaq2324/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shafaq2324/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/shafaq2324/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
