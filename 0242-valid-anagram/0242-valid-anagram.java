@@ -3,10 +3,14 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        char[] sArray = s.toCharArray();
-        char[] tArray = t.toCharArray();
-        Arrays.sort(sArray);
-        Arrays.sort(tArray);
-        return Arrays.equals(sArray, tArray);
+        int freq[] = new int[26];
+        for(int i = 0; i < s.length(); i++){
+            freq[s.charAt(i) - 'a']++;
+            freq[t.charAt(i) - 'a']--;
+        }
+        for(int i: freq){
+            if(i != 0) return false;
+        }
+        return true;
     }
 }
