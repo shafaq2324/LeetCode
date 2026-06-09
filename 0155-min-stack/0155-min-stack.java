@@ -1,5 +1,4 @@
 class MinStack {
-
     private Stack<Integer> stack;
     private Stack<Integer> minStack;
 
@@ -10,14 +9,16 @@ class MinStack {
     
     public void push(int val) {
         stack.push(val);
-        // Push to minStack if it's empty or val is <= current minimum
-        if (minStack.isEmpty() || val <= minStack.peek()) {
+        if (minStack.isEmpty()) {
             minStack.push(val);
+        } else {
+            if (val <= minStack.peek()) {
+                minStack.push(val);
+            }
         }
     }
     
     public void pop() {
-        // If the top element is the minimum, pop it from minStack too
         if (stack.peek().equals(minStack.peek())) {
             minStack.pop();
         }
@@ -36,7 +37,7 @@ class MinStack {
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
- * obj.push(value);
+ * obj.push(val);
  * obj.pop();
  * int param_3 = obj.top();
  * int param_4 = obj.getMin();
