@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/shafaq2324/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shafaq2324/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/shafaq2324/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shafaq2324/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shafaq2324/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/shafaq2324/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafaq2324/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shafaq2324/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shafaq2324/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/shafaq2324/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/shafaq2324/LeetCode/tree/main/0649-dota2-senate/) | Medium |
