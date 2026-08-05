@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/shafaq2324/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/shafaq2324/LeetCode/tree/main/0504-base-7/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shafaq2324/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shafaq2324/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/shafaq2324/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/shafaq2324/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/shafaq2324/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shafaq2324/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
