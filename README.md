@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/shafaq2324/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shafaq2324/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/shafaq2324/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shafaq2324/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shafaq2324/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/shafaq2324/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
