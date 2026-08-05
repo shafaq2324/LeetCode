@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/shafaq2324/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/shafaq2324/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shafaq2324/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/shafaq2324/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/shafaq2324/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/shafaq2324/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/shafaq2324/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shafaq2324/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shafaq2324/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Trie
