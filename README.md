@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/shafaq2324/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1603-design-parking-system](https://github.com/shafaq2324/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shafaq2324/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/shafaq2324/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/shafaq2324/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/shafaq2324/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1603-design-parking-system](https://github.com/shafaq2324/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shafaq2324/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1603-design-parking-system](https://github.com/shafaq2324/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/shafaq2324/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/shafaq2324/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
