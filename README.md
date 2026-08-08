@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/shafaq2324/LeetCode/tree/main/0504-base-7/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shafaq2324/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shafaq2324/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/shafaq2324/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/shafaq2324/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -581,4 +582,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shafaq2324/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/shafaq2324/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
