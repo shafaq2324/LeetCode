@@ -9,6 +9,7 @@ class Solution {
             if(ptr < word2.length()){
                 ans.append(word2.charAt(ptr));
             }
+            // even if one word exhausts the control transfers to the other string and pointer moves forward
             ptr++;
         }
         return ans.toString();
