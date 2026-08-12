@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/shafaq2324/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/shafaq2324/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/shafaq2324/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/shafaq2324/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/shafaq2324/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/shafaq2324/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/shafaq2324/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/shafaq2324/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/shafaq2324/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/shafaq2324/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/shafaq2324/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shafaq2324/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/shafaq2324/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shafaq2324/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
