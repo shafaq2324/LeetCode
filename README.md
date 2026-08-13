@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/shafaq2324/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shafaq2324/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shafaq2324/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1528-shuffle-string](https://github.com/shafaq2324/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shafaq2324/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shafaq2324/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/shafaq2324/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/shafaq2324/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shafaq2324/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1528-shuffle-string](https://github.com/shafaq2324/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/shafaq2324/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/shafaq2324/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/shafaq2324/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
