@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/shafaq2324/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/shafaq2324/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shafaq2324/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/shafaq2324/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shafaq2324/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/shafaq2324/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0997-find-the-town-judge](https://github.com/shafaq2324/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/shafaq2324/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shafaq2324/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/shafaq2324/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/shafaq2324/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0997-find-the-town-judge](https://github.com/shafaq2324/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
