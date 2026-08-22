@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/shafaq2324/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shafaq2324/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/shafaq2324/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/shafaq2324/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/shafaq2324/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/shafaq2324/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shafaq2324/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shafaq2324/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shafaq2324/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shafaq2324/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0645-set-mismatch](https://github.com/shafaq2324/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shafaq2324/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/shafaq2324/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/shafaq2324/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/shafaq2324/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0735-asteroid-collision](https://github.com/shafaq2324/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/shafaq2324/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -411,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/shafaq2324/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/shafaq2324/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/shafaq2324/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shafaq2324/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -430,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shafaq2324/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shafaq2324/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/shafaq2324/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shafaq2324/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
