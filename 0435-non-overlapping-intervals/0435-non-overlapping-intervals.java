@@ -10,11 +10,11 @@ class Solution {
                 // if the ending of previous ending is already covered in the beginning of new interval then remove the current interval
                 ans++;
                 prev = Math.min(prev, intervals[i][1]);
-                // if current interval starts before 
+                // if current interval starts before prev then there is an overlap and keep the one with shorter ending
             }
             else{
                 prev = intervals[i][1];
-                // 
+                // if current interval starts after prev then it is fine
             }
         }
         return ans;
