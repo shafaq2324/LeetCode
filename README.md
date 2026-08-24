@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shafaq2324/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/shafaq2324/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shafaq2324/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shafaq2324/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shafaq2324/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shafaq2324/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/shafaq2324/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/shafaq2324/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shafaq2324/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/shafaq2324/LeetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -684,4 +687,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
