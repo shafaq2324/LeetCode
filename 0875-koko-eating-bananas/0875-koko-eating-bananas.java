@@ -11,6 +11,7 @@ class Solution {
                 long div = pile / mid;
                 hours += div;
                 if(pile % mid != 0) hours++;
+                if(hours > h) break;
             }
             if(hours <= h){
                 ans = mid;
