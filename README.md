@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shafaq2324/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/shafaq2324/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shafaq2324/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/shafaq2324/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shafaq2324/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shafaq2324/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shafaq2324/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/shafaq2324/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shafaq2324/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shafaq2324/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/shafaq2324/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/shafaq2324/LeetCode/tree/main/0100-same-tree/) | Easy |
@@ -645,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/shafaq2324/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shafaq2324/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shafaq2324/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/shafaq2324/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shafaq2324/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shafaq2324/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
