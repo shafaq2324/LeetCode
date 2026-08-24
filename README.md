@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/shafaq2324/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shafaq2324/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/shafaq2324/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/shafaq2324/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shafaq2324/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shafaq2324/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/shafaq2324/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/shafaq2324/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shafaq2324/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/shafaq2324/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/shafaq2324/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1603-design-parking-system](https://github.com/shafaq2324/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shafaq2324/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shafaq2324/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/shafaq2324/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/shafaq2324/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
