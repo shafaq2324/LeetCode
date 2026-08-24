@@ -10,15 +10,18 @@ class Solution {
             for(int pile: piles){
                 long div = pile / mid;
                 hours += div;
+                // add the number of hours koko will take to eat the bananas according to mid
                 if(pile % mid != 0) hours++;
-                if(hours > h) break;
+                // add remaining bananas too
             }
             if(hours <= h){
                 ans = mid;
                 max = mid - 1;
+                // if hours less than h then decrease speed
             }
             else{
                 min = mid + 1;
+                // if hours greater than h then increase speed
             }
         }
         return ans;
