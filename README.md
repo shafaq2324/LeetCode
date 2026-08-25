@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/shafaq2324/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shafaq2324/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shafaq2324/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shafaq2324/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/shafaq2324/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/shafaq2324/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shafaq2324/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/shafaq2324/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/shafaq2324/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shafaq2324/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/shafaq2324/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shafaq2324/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/shafaq2324/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
