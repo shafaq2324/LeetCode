@@ -5,10 +5,10 @@ class Solution {
         int down = 1;
         for(int i = 1; i < nums.length; i++){
             if(nums[i] > nums[i-1]){
-                up = down + 1;
+                up = down + 1; // positive result
             }
             else if (nums[i] < nums[i-1]){
-                down = up + 1;
+                down = up + 1; // negative result
             }
         }
         return Math.max(up, down);
