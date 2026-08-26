@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/shafaq2324/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/shafaq2324/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/shafaq2324/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0221-maximal-square](https://github.com/shafaq2324/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0283-move-zeroes](https://github.com/shafaq2324/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/shafaq2324/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/shafaq2324/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/shafaq2324/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shafaq2324/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/shafaq2324/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/shafaq2324/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shafaq2324/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shafaq2324/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/shafaq2324/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0221-maximal-square](https://github.com/shafaq2324/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0867-transpose-matrix](https://github.com/shafaq2324/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/shafaq2324/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shafaq2324/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
