@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shafaq2324/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/shafaq2324/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shafaq2324/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/shafaq2324/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1929-concatenation-of-array](https://github.com/shafaq2324/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shafaq2324/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/shafaq2324/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/shafaq2324/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/shafaq2324/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/shafaq2324/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shafaq2324/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
