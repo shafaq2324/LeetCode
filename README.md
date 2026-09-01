@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/shafaq2324/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shafaq2324/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/shafaq2324/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0338-counting-bits](https://github.com/shafaq2324/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0376-wiggle-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/shafaq2324/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/shafaq2324/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/shafaq2324/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shafaq2324/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0338-counting-bits](https://github.com/shafaq2324/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/shafaq2324/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/shafaq2324/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shafaq2324/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
