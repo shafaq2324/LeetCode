@@ -588,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/shafaq2324/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/shafaq2324/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/shafaq2324/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -612,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shafaq2324/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0547-number-of-provinces](https://github.com/shafaq2324/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/shafaq2324/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/shafaq2324/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shafaq2324/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/shafaq2324/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/shafaq2324/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shafaq2324/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shafaq2324/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -767,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/shafaq2324/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/shafaq2324/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
