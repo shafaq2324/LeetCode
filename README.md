@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/shafaq2324/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shafaq2324/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shafaq2324/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shafaq2324/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shafaq2324/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/shafaq2324/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/shafaq2324/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shafaq2324/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shafaq2324/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shafaq2324/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Sorting
@@ -792,4 +794,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1115-print-foobar-alternately](https://github.com/shafaq2324/LeetCode/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1116-print-zero-even-odd](https://github.com/shafaq2324/LeetCode/tree/main/1116-print-zero-even-odd/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shafaq2324/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 <!---LeetCode Topics End-->
