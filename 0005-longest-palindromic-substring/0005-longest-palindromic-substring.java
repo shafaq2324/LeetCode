@@ -1,23 +1,19 @@
 class Solution {
     public String longestPalindrome(String s) {
+        if(s.length() < 1) return "";
+        else if(palindrome(s)) return s;
         int n = s.length();
-
-        for(int len = n; len > 0; len--) {
-        // iterate via all lengths of palindromic strings
-            for(int i = 0; i <= n - len; i++) {
-                // slide window of len size 
+        for(int len = n-1; len >= 1; len--){
+            for(int i = 0; i <= n-len; i++){
                 String sub = s.substring(i, i + len);
-                // extract substring from current window 
-                if(isPalindrome(sub)) {
-                    return sub; // check if palindrome
+                if(palindrome(sub)){
+                    return sub;
                 }
             }
         }
-
         return "";
     }
-
-    public boolean isPalindrome(String str) {
+    public boolean palindrome(String str) {
 
         int left = 0;
         int right = str.length() - 1;
