@@ -1,28 +1,35 @@
-public class Solution {
+class Solution {
     public String longestPalindrome(String s) {
-        if (s.length() <= 1) {
-            return s;
-        }
+        int len = s.length();
+        if (len < 2) return s;
 
-        int maxLen = 1;
+        int maxLen = 0;
         int start = 0;
-        int end = 0;
-        boolean[][] dp = new boolean[s.length()][s.length()];
 
-        for (int i = 0; i < s.length(); ++i) {
-            dp[i][i] = true;
-            for (int j = 0; j < i; ++j) {
-                if (s.charAt(j) == s.charAt(i) && (i - j <= 2 || dp[j + 1][i - 1])) {
-                    dp[j][i] = true;
-                    if (i - j + 1 > maxLen) {
-                        maxLen = i - j + 1;
-                        start = j;
-                        end = i;
-                    }
+        for (int i = 0; i < len; i++) {
+            // Check for odd-length palindromes (single character center)
+            int l = i, r = i;
+            while (l >= 0 && r < len && s.charAt(l) == s.charAt(r)) {
+                int currentLen = r - l + 1;
+                if (currentLen > maxLen) {
+                    maxLen = currentLen;
+                    start = l;
                 }
+                l--; r++;
+            }
+            
+            // Check for even-length palindromes (two character center)
+            l = i; r = i + 1;
+            while (l >= 0 && r < len && s.charAt(l) == s.charAt(r)) {
+                int currentLen = r - l + 1;
+                if (currentLen > maxLen) {
+                    maxLen = currentLen;
+                    start = l;
+                }
+                l--; r++;
             }
         }
-
-        return s.substring(start, end + 1);
+        
+        return s.substring(start, start + maxLen);
     }
 }
