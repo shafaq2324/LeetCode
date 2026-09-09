@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/shafaq2324/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shafaq2324/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/shafaq2324/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/shafaq2324/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
