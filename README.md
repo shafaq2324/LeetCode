@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/shafaq2324/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/shafaq2324/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0221-maximal-square](https://github.com/shafaq2324/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/shafaq2324/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/shafaq2324/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/shafaq2324/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/shafaq2324/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shafaq2324/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shafaq2324/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/shafaq2324/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/shafaq2324/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shafaq2324/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shafaq2324/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shafaq2324/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shafaq2324/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/shafaq2324/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/shafaq2324/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/shafaq2324/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shafaq2324/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shafaq2324/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shafaq2324/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
@@ -787,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shafaq2324/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/shafaq2324/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -814,4 +819,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shafaq2324/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shafaq2324/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
